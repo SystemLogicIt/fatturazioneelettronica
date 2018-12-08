@@ -1,5 +1,20 @@
 [
+  { "Servizio":"ARUBA", "Codice":"KRRH6B9"},
+  { "Servizio":"B2BEASY (Studioboost)", "Codice":"PXQYICS"},
+  { "Servizio":"BLUENEXT (Italstudio)", "Codice":"X2PH38J"},
+  { "Servizio":"BPO Pilot/ANC Convergence Studio 4.0 (Studioboost)", "Codice":"PXQYICS"},
+  { "Servizio":"CGN  (DocuMi)", "Codice":"SU9YNJA"},
+  { "Servizio":"DATEV KOINOS", "Codice":"T9K4ZHO"},
+  { "Servizio":"FREEINVOICE (Cloudfinance)", "Codice":"6JXPS2J"},
+  { "Servizio":"GIS RANOCCHI", "Codice":"J6URRTW"},
+  { "Servizio":"GB Software", "Codice":"QULXG4S"},
+  { "Servizio":"Idox", "Codice":"0G6TBBX"},
+  { "Servizio":"Infocert", "Codice":"XL13LG4"},
+  { "Servizio":"MENOCARTA (DocuMi-YouDOX)", "Codice":"0Y661H4"},
   { "Servizio":"Pragma Servizi FATEL", "Codice":"XKAGKM9"},
+  { "Servizio":"PROFIS-SISTEMI", "Codice":"USAL8PV"},
   { "Servizio":"TeamSystem AGYO", "Codice":"M5UXCR1"},
   { "Servizio":"Zucchetti Digital Hub", "Codice":"SUBM70N"}
+  { "Servizio":"WKI IPSOA-(Arca, B-Point, Ft.Smart)", "Codice":"W7YVJK9"}
+  { "Servizio":"YouDOX", "Codice":"K0ROACV"},
 ]
