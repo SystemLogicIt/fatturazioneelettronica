@@ -1,5 +1,6 @@
 [
   { "Servizio":"ARUBA", "Codice":"KRRH6B9"},
+  { "Servizio":"Azserve", "Codice":"MG3NCNW"},
   { "Servizio":"B2BEASY (Studioboost)", "Codice":"PXQYICS"},
   { "Servizio":"BLUENEXT (Italstudio)", "Codice":"X2PH38J"},
   { "Servizio":"BPO Pilot/ANC Convergence Studio 4.0 (Studioboost)", "Codice":"PXQYICS"},
@@ -14,7 +15,7 @@
   { "Servizio":"Pragma Servizi FATEL", "Codice":"XKAGKM9"},
   { "Servizio":"PROFIS-SISTEMI", "Codice":"USAL8PV"},
   { "Servizio":"TeamSystem AGYO", "Codice":"M5UXCR1"},
-  { "Servizio":"Zucchetti Digital Hub", "Codice":"SUBM70N"}
-  { "Servizio":"WKI IPSOA-(Arca, B-Point, Ft.Smart)", "Codice":"W7YVJK9"}
+  { "Servizio":"Zucchetti Digital Hub", "Codice":"SUBM70N"},
+  { "Servizio":"WKI IPSOA-(Arca, B-Point, Ft.Smart)", "Codice":"W7YVJK9"},
   { "Servizio":"YouDOX", "Codice":"K0ROACV"},
 ]
